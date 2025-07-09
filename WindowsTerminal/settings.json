@@ -13,16 +13,16 @@
       "id": "User.scrollDown.0"
     },
     {
-      "command": "find",
-      "id": "User.find"
-    },
-    {
       "command": {
         "action": "splitPane",
         "split": "auto",
         "splitMode": "duplicate"
       },
       "id": "User.splitPane.A6751878"
+    },
+    {
+      "command": "find",
+      "id": "User.find"
     },
     {
       "command": "duplicateTab",
@@ -69,36 +69,36 @@
   "experimental.detectURLs": true,
   "keybindings": [
     {
-      "id": "Terminal.ScrollUpPage",
-      "keys": "shift+pgup"
-    },
-    {
       "id": "User.paste",
       "keys": "ctrl+shift+v"
+    },
+    {
+      "id": "Terminal.ScrollUpPage",
+      "keys": "shift+pgup"
     },
     {
       "id": "Terminal.ScrollUpPage",
       "keys": "shift+left"
     },
     {
-      "id": "User.scrollDown.0",
-      "keys": "shift+down"
+      "id": "User.duplicateTab",
+      "keys": "ctrl+o"
     },
     {
       "id": "User.splitPane.A6751878",
       "keys": "alt+shift+d"
     },
     {
-      "id": "User.duplicateTab",
-      "keys": "ctrl+o"
-    },
-    {
-      "id": null,
-      "keys": "ctrl+comma"
+      "id": "User.scrollDown.0",
+      "keys": "shift+down"
     },
     {
       "id": "User.find",
       "keys": "ctrl+shift+f"
+    },
+    {
+      "id": null,
+      "keys": "ctrl+comma"
     },
     {
       "id": "User.scrollUp.0",

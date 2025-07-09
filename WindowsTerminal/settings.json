@@ -160,11 +160,11 @@
         "name": "Windows PowerShell"
       },
       {
+        "commandline": "C:\\WINDOWS\\system32\\wsl.exe --distribution-id {4dddf8a3-739c-4c19-8318-07d6d5272064}",
         "guid": "{20fe2338-b43c-56eb-b9e6-afedce645e11}",
         "hidden": false,
         "name": "NixOS",
-        "source": "Microsoft.WSL",
-        "startingDirectory": "~"
+        "source": "Microsoft.WSL"
       },
       {
         "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",

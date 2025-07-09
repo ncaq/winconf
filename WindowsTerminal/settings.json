@@ -138,9 +138,8 @@
   "newTabPosition": "afterCurrentTab",
   "profiles": {
     "defaults": {
-      "adjustIndistinguishableColors": "indexed",
       "bellStyle": "none",
-      "colorScheme": "Solarized Dark",
+      "colorScheme": "Dark+",
       "font": {
         "face": "HackGen Console NF"
       },

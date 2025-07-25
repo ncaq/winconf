@@ -65,7 +65,7 @@
   "confirmCloseAllTabs": true,
   "copyFormatting": "all",
   "copyOnSelect": false,
-  "defaultProfile": "{20fe2338-b43c-56eb-b9e6-afedce645e11}",
+  "defaultProfile": "{90b848b0-7a52-5746-be91-776229725cdb}",
   "experimental.detectURLs": true,
   "keybindings": [
     {
@@ -159,8 +159,7 @@
         "name": "Windows PowerShell"
       },
       {
-        "commandline": "C:\\WINDOWS\\system32\\wsl.exe --distribution-id {4dddf8a3-739c-4c19-8318-07d6d5272064}",
-        "guid": "{20fe2338-b43c-56eb-b9e6-afedce645e11}",
+        "guid": "{90b848b0-7a52-5746-be91-776229725cdb}",
         "hidden": false,
         "name": "NixOS",
         "source": "Microsoft.WSL"

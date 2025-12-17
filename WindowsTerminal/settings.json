@@ -140,7 +140,7 @@
       "bellStyle": "none",
       "colorScheme": "Dark+",
       "font": {
-        "face": "HackGen Console NF"
+        "face": "FirgeNerd Console"
       },
       "historySize": 50000
     },

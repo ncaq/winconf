@@ -7,39 +7,8 @@
       "id": "User.paste"
     },
     {
-      "command": {
-        "action": "scrollDown"
-      },
-      "id": "User.scrollDown.0"
-    },
-    {
       "command": "find",
       "id": "User.find"
-    },
-    {
-      "command": {
-        "action": "splitPane",
-        "split": "auto",
-        "splitMode": "duplicate"
-      },
-      "id": "User.splitPane.A6751878"
-    },
-    {
-      "command": {
-        "action": "moveTab",
-        "direction": "backward"
-      },
-      "id": "User.moveTab.EF07D31B"
-    },
-    {
-      "command": "duplicateTab",
-      "id": "User.duplicateTab"
-    },
-    {
-      "command": {
-        "action": "scrollUp"
-      },
-      "id": "User.scrollUp.0"
     },
     {
       "command": {
@@ -47,19 +16,6 @@
         "singleLine": false
       },
       "id": "User.copy.644BA8F2"
-    },
-    {
-      "command": {
-        "action": "moveTab",
-        "direction": "forward"
-      },
-      "id": "User.moveTab.793E2350"
-    },
-    {
-      "command": {
-        "action": "closeTab"
-      },
-      "id": "User.closeTab.0"
     }
   ],
   "copyFormatting": "all",
@@ -68,28 +24,8 @@
   "experimental.detectURLs": true,
   "keybindings": [
     {
-      "id": "Terminal.ScrollUpPage",
-      "keys": "shift+pgup"
-    },
-    {
       "id": "User.paste",
       "keys": "ctrl+shift+v"
-    },
-    {
-      "id": "Terminal.ScrollUpPage",
-      "keys": "shift+left"
-    },
-    {
-      "id": "User.scrollDown.0",
-      "keys": "shift+down"
-    },
-    {
-      "id": "User.splitPane.A6751878",
-      "keys": "alt+shift+d"
-    },
-    {
-      "id": "User.duplicateTab",
-      "keys": "ctrl+o"
     },
     {
       "id": "User.find",
@@ -100,32 +36,8 @@
       "keys": "ctrl+comma"
     },
     {
-      "id": "User.scrollUp.0",
-      "keys": "shift+up"
-    },
-    {
-      "id": "User.closeTab.0",
-      "keys": "ctrl+q"
-    },
-    {
-      "id": "User.moveTab.EF07D31B",
-      "keys": "ctrl+alt+h"
-    },
-    {
       "id": "User.copy.644BA8F2",
       "keys": "ctrl+shift+c"
-    },
-    {
-      "id": "User.moveTab.793E2350",
-      "keys": "ctrl+alt+s"
-    },
-    {
-      "id": "Terminal.ScrollDownPage",
-      "keys": "shift+pgdn"
-    },
-    {
-      "id": "Terminal.ScrollDownPage",
-      "keys": "shift+right"
     }
   ],
   "launchMode": "maximized",

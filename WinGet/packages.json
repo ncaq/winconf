@@ -1,0 +1,123 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2026-02-14T11:52:45.773-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "Amazon.AWSCLI"
+        },
+        {
+          "PackageIdentifier": "Anthropic.Claude"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Google.GoogleDrive"
+        },
+        {
+          "PackageIdentifier": "Google.JapaneseIME"
+        },
+        {
+          "PackageIdentifier": "Logitech.GHUB"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WSL"
+        },
+        {
+          "PackageIdentifier": "OpenJS.NodeJS"
+        },
+        {
+          "PackageIdentifier": "Proton.ProtonAuthenticator"
+        },
+        {
+          "PackageIdentifier": "SanDisk.Dashboard"
+        },
+        {
+          "PackageIdentifier": "Tailscale.Tailscale"
+        },
+        {
+          "PackageIdentifier": "TheDocumentFoundation.LibreOffice"
+        },
+        {
+          "PackageIdentifier": "Yubico.Authenticator"
+        },
+        {
+          "PackageIdentifier": "Zoom.Zoom"
+        },
+        {
+          "PackageIdentifier": "th-ch.YouTubeMusic"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "XP8CBJ40XLBWKX",
+          "Name": "Docker Desktop"
+        },
+        {
+          "PackageIdentifier": "9PNSJCLXDZ0V",
+          "Name": "GIMP"
+        },
+        {
+          "PackageIdentifier": "XP8K2L36VP0QMB",
+          "Name": "KeePassXC"
+        },
+        {
+          "PackageIdentifier": "9NZVDKPMR9RD",
+          "Name": "Mozilla Firefox"
+        },
+        {
+          "PackageIdentifier": "9MX7TGVGQFCL",
+          "Name": "Mozilla Thunderbird"
+        },
+        {
+          "PackageIdentifier": "XPFFH613W8V6LV",
+          "Name": "OBS Studio"
+        },
+        {
+          "PackageIdentifier": "9MZ1SNWT0N5D",
+          "Name": "PowerShell"
+        },
+        {
+          "PackageIdentifier": "XPFFCG7M673D4F",
+          "Name": "SharpKeys"
+        },
+        {
+          "PackageIdentifier": "9WZDNCRDK3WP",
+          "Name": "Slack"
+        },
+        {
+          "PackageIdentifier": "9P7KNL5RWT25",
+          "Name": "Sysinternals Suite"
+        },
+        {
+          "PackageIdentifier": "XP9KHM4BK9FZ7Q",
+          "Name": "Visual Studio Code"
+        },
+        {
+          "PackageIdentifier": "9PGJGD53TN86",
+          "Name": "WinDbg"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
+      }
+    }
+  ],
+  "WinGetVersion": "1.12.460"
+}

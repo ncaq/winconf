@@ -40,7 +40,7 @@
       "keys": "ctrl+shift+c"
     }
   ],
-  "launchMode": "maximized",
+  "launchMode": "fullscreen",
   "newTabMenu": [
     {
       "icon": null,
